@@ -81,7 +81,6 @@ for code in product_codes:
         umraniye_stok = "Ümraniye stok bulunamadı"
 
     try:
-        # Resim URL'sini alma
         image_url = driver.find_element(By.XPATH, '//*[@id="ctl00_ContentPlaceHolder1_rptImages_ctl00_image"]').get_attribute('src')
     except:
         image_url = "Resim bulunamadı"
