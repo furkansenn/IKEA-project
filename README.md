@@ -2,7 +2,6 @@
 
 <a name="readme-top"></a>
 
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -18,6 +17,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<img src="https://github.com/furkansenn/IKEA-project/blob/master/DALL%C2%B7E%202024.png?raw=true.png" height="500">
 
 <!-- TABLE OF CONTENTS -->
 <details>
